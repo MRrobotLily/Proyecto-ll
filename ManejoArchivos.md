@@ -796,3 +796,8 @@ if __name__ == '__main__':
 
 [![Alt text](https://img.youtube.com/vi/k1Jaqvy-fbU/0.jpg)](https://www.youtube.com/watch?v=k1Jaqvy-fbU)
 
+## Video del codigo en Python
+
+*Integrantes del Grupo:*
+-CRISTIAN DANIEL GOMEZ GONZALEZ Carnet: 7690-22-3929
+-DALILA NINETH ZACARIAS DE LEON Carnet: 7690-22-18678
