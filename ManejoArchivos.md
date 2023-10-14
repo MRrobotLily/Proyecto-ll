@@ -436,6 +436,7 @@ en caso de errores:
 ```
 ## Video del codigo en C++
 
+[![Alt text](https://img.youtube.com/vi/FAD9DLh0mXc/0.jpg)](https://youtu.be/FAD9DLh0mXc)
 
 # Proyecto II
 
